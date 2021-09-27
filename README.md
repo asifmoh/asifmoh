@@ -4,8 +4,7 @@
 <a href='https://www.shongshoy.com'><img alt="Shongshoy" src="https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/website.svg" height='42px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
+I am a Faceinformatiker and a Full Stack Web Developer 🌐. 
 <br/>
 
 <img align="right" alt="SVG" src="https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/web_developer.svg" width="360px"/>
